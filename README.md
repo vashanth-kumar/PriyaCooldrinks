@@ -1,5 +1,6 @@
 <html>
 <b>Cooldrinks Company Website</b>
+  
 <p>This repository contains the source code for the Cooldrinks Company website. The website is designed using HTML, CSS, and JavaScript.</p>
 <br>
 
