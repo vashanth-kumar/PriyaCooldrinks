@@ -6,6 +6,7 @@
 <b>Description</b>
 <p>The Cooldrinks Company website is a platform showcasing our range of refreshing beverages and engaging with our customers. It provides information about our products, company background, and contact details.</p>
 
+
 <b>Technologies Used</b>
 HTML5<br>
 CSS3<br>
