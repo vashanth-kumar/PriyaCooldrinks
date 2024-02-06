@@ -3,7 +3,6 @@
 <p>This repository contains the source code for the Cooldrinks Company website. The website is designed using HTML, CSS, and JavaScript.</p>
 <br>
 
-
 <b>Description</b>
 <p>The Cooldrinks Company website is a platform showcasing our range of refreshing beverages and engaging with our customers. It provides information about our products, company background, and contact details.</p>
 
